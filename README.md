@@ -4,6 +4,8 @@ Este é um guia sobre como criar e testar uma API básica. Neste exemplo, vou mo
 
 ## Estrutura da API
 
+## Utilizando Postman
+
 A API está estruturada em uma coleção que inclui os seguintes métodos:
 
 - **GET**: Para obter informações.
